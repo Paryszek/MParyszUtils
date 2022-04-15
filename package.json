@@ -1,0 +1,16 @@
+{
+  "name": "com.mparysz.utils",
+  "version": "1.0.0",
+  "displayName": "Utils",
+  "description": "Package that goups multiple tools and utils together",
+  "unity": "2019.1",
+  "dependencies": {},
+  "keywords": [
+    "utils",
+    "tools"
+  ],
+  "author": {
+    "name": "Michal Parysz",
+    "email": "miparysz@gmail.com"
+  }
+}
